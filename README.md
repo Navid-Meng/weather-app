@@ -9,7 +9,7 @@
 
 Master building a weather app in PHP using OOP and MVC in this comprehensive 1-hour tutorial:  
 [Watch the Tutorial](https://youtu.be/Vwoqmt15NPQ?si=NohsHC8S5xQx_VHG)  
-Subscribe to my channel: [Your Channel Name](https://www.youtube.com/@coderistic/videos)
+Subscribe to my channel: [Coderistic](https://www.youtube.com/@coderistic/videos)
 
 ## 🔍 What You'll Learn
 
